@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "babel": "^6.23.0",
+    "parcel": "^2.10.2"
+  },
+  "name": "bankist-3",
+  "version": "1.0.0",
+  "default": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "ExoJR",
+  "license": "ISC",
+  "description": ""
+}
